@@ -1,0 +1,11 @@
+SecureCRT commands
+show commands:
+show run
+show ip int brief
+show mac address-table
+show vlan brief
+
+
+cmd:
+ping (ipaddress)
+nmap -v (ipaddress)
