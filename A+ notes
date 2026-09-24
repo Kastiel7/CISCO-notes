@@ -7,6 +7,7 @@ show ip int brief
 show mac address-table
 show vlan brief
 show power inline
+show ip route ospf
 
 
 cmd:
