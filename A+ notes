@@ -1,7 +1,9 @@
+
 www.codeshare.io/Aplus
 https://onedrive.live.com/?id=%2Fpersonal%2F74dc97bff2a670b1%2FDocuments%2FCompTia%2FCompTIA%20A%2B%20Bundle&listurl=%2Fpersonal%2F74dc97bff2a670b1%2FDocuments&ithint=folder&e=oiKIrn&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy83NGRjOTdiZmYyYTY3MGIxL0lnRE15bDhCaE9SYlQ2UTI3c1hzbTQwbkFYNU9HMThBcG94NS02WGprS19PVXNrP2U9b2lLSXJu&ga=1
 https://1drv.ms/f/c/74dc97bff2a670b1/IgDMyl8BhORbT6Q27sXsm40nAX5OG18Apox5-6XjkK_OUsk?e=oiKIrn
 
+==============================================================================================================================
 
 SecureCRT commands
 show commands:
@@ -12,7 +14,12 @@ show vlan brief
 show power inline
 show ip route ospf
 
+==============================================================================================================================
 
 cmd:
 ping (ipaddress)
 nmap -v (ipaddress)
+
+==============================================================================================================================
+
+
